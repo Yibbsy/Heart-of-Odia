@@ -23,7 +23,7 @@
 			"page": "",
 			"ability": [
 				{
-					"con": 2
+					"con": 2,
 					"choose": {
 						"from": [
 							"str",
