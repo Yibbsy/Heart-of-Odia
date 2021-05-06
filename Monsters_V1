@@ -1,0 +1,130 @@
+{
+	"siteVersion": "1.127.4",
+	"_meta": {
+		"sources": [
+			{
+				"json": "HeartofOdia",
+				"abbreviation": "HoO",
+				"full": "Heart of Odia",
+				"url": "https://en.m.wikipedia.org/wiki/The_Hedley_Kow",
+				"authors": [
+					"Caleb"
+				],
+				"convertedBy": []
+			}
+		],
+		"dateAdded": 1620286252,
+		"dateLastModified": 1620286252
+	},
+	"monster": [
+		{
+			"name": "Braag (Changling)",
+			"shortName": "Braag",
+			"source": "HeartofOdia",
+			"size": "L",
+			"type": {
+				"type": "monstrosity",
+				"tags": [
+					"shapechanger"
+				]
+			},
+			"alignment": [
+				"C",
+				"G",
+				"NY",
+				"E"
+			],
+			"ac": [
+				{
+					"ac": 12,
+					"from": [
+						"Natural armor"
+					]
+				}
+			],
+			"hp": {
+				"formula": "8d10 + 24",
+				"average": 68
+			},
+			"speed": {
+				"walk": 30
+			},
+			"str": 18,
+			"dex": 10,
+			"con": 16,
+			"int": 7,
+			"wis": 9,
+			"cha": 14,
+			"skill": {
+				"deception": "+6",
+				"athletics": "+8"
+			},
+			"senses": [
+				"darkvision 60 ft."
+			],
+			"passive": 9,
+			"conditionImmune": [
+				"charmed"
+			],
+			"languages": [
+				"Common"
+			],
+			"cr": "3",
+			"trait": [
+				{
+					"name": "Shapechanger",
+					"entries": [
+						"The braag can use its action to polymorph into a Medium or Large beast it has seen, or back into its true form. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies."
+					]
+				},
+				{
+					"name": "Ambusher",
+					"entries": [
+						"In the first round of a combat, the braag has advantage on attack rolls against any creature it surprised."
+					]
+				},
+				{
+					"name": "Surprise Attack",
+					"entries": [
+						"If the braag surprises a creature and hits it with an attack during the first round of combat, the target takes an extra 10 ({@damage 3d6}) damage from the attack."
+					]
+				}
+			],
+			"action": [
+				{
+					"name": "Multiattack",
+					"entries": [
+						"The braag makes two melee attacks."
+					]
+				},
+				{
+					"name": "Slam",
+					"entries": [
+						"{@atk mw} {@hit 6} to hit, reach 5 ft., one target. {@h}8 ({@damage 1d8 + 4}) bludgeoning damage."
+					]
+				}
+			],
+			"traitTags": [
+				"Ambusher",
+				"Shapechanger"
+			],
+			"senseTags": [
+				"D"
+			],
+			"actionTags": [
+				"Multiattack"
+			],
+			"languageTags": [
+				"C"
+			],
+			"damageTags": [
+				"B"
+			],
+			"miscTags": [
+				"MW"
+			],
+			"hasFluff": true,
+			"hasFluffImages": true
+		}
+	]
+}
