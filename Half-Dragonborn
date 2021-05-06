@@ -1,3 +1,20 @@
+{
+	"_meta": {
+		"sources": [
+			{
+				"json": "HeartofOdia",
+				"abbreviation": "HoO",
+				"full": "Heart of Odia",
+				"url": "",
+				"authors": [
+					"Yibbys"
+				],
+				"convertedBy": []
+			}
+		],
+		"dateAdded": 1620286252,
+		"dateLastModified": 1620286252
+	},
 	"race": [
 		{
 			"name": "Half-Dragonborn",
@@ -5,16 +22,17 @@
 			"page": "",
 			"ability": [
 				{
+					"con": 2
 				}
 			],
 			"size": "M",
-			"speed": 0,
+			"speed": 30,
 			"entries": [
 				{
 					"type": "entries",
-					"name": "",
+					"name": "Test",
 					"entries": [
-						""
+						"Test, test, testing"
 					]
 				},
 				{
@@ -27,3 +45,4 @@
 			]
 		}
 	]
+}
