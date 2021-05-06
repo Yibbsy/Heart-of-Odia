@@ -1,9 +1,9 @@
 5e.tool
 
-Heart of Odia
-HoO
-HeartofOdia
-
-Yibbsy
+Title: Heart of Odia
+Abbreviation: HoO
+JSON idetifier: HeartofOdia
+Source URL:
+Author: Yibbsy
 
 .
