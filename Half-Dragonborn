@@ -24,6 +24,7 @@
 			"ability": [
 				{
 					"con": 2
+					"any": 1
 				}
 			],
 			"size": "M",
