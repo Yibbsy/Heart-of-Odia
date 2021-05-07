@@ -42,16 +42,44 @@
 			"entries": [
 				{
 					"type": "entries",
-					"name": "Test",
+					"name": "Age",
 					"entries": [
-						"Test, test, testing"
+						"Half-dragonborn reach adulthood in their late teens and live less than a century."
 					]
 				},
 				{
 					"type": "entries",
-					"name": "",
+					"name": "Alignment",
+					"entries": [
+						"Half-dragonborn tend toward no particular alignment."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Size",
+					"entries": [
+						"Half-dragonborn size can span that of smallest human to largest dragonborn."
+					]
+				},
+				{
+					"type": "entries",
+					"name": ""
 					"entries": [
 						""
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Skill Versatility",
+					"entries": [
+						"You gain proficiency in two skills of your choice."
+					]
+				},
+				{
+					"type": "entries",
+					"name": "Languages",
+					"entries": [
+						"You can speak, read, and write Common and Draconic. Draconic is thought to be one of the oldest languages and is often used in the study of magic. The language sounds harsh to most other creatures and includes numerous hard consonants and sibilants."
 					]
 				}
 			]
