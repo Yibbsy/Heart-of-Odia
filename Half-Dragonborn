@@ -75,6 +75,12 @@
 						"You gain proficiency in two skills of your choice, and one set of artisan's tools."
 					]
 				}			
+			],
+			"languageProficiencies": [
+				{
+					"common" true,
+					"draconic" true
+				}
 			]
 		}
 	]
