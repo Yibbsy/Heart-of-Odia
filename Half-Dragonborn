@@ -39,12 +39,6 @@
 			],
 			"size": "M",
 			"speed": 30,
-			"languageProficiencies": [
-				{
-					"common": true
-					"draconic": true
-				}
-			],
 			"entries": [
 				{
 					"type": "entries",
