@@ -39,6 +39,12 @@
 			],
 			"size": "M",
 			"speed": 30,
+			"languageProficiencies": [
+				{
+					"common": True
+					"draconic": True
+				}
+			]
 			"entries": [
 				{
 					"type": "entries",
@@ -74,13 +80,7 @@
 					"entries": [
 						"You gain proficiency in two skills of your choice, and one set of artisan's tools."
 					]
-				}
-				"languageProficiencies": [
-					{
-						"common": True
-						"draconic": True
-					}
-				]
+				}			
 			]
 		}
 	]
