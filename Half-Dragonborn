@@ -41,8 +41,8 @@
 			"speed": 30,
 			"languageProficiencies": [
 				{
-					"common": True
-					"draconic": True
+					"common": true
+					"draconic": true
 				}
 			],
 			"entries": [
