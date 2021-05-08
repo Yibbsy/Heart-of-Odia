@@ -53,7 +53,7 @@
 					"elvish": true,
 					"giant": true,
 					"common": true,
-					"other": true
+					"other": false
 				}
 			],
 			"entries": [
