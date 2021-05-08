@@ -39,6 +39,23 @@
 			],
 			"size": "M",
 			"speed": 30,
+			"languageProficiencies": [
+				{
+					"abbysal": true,
+					"celestial": true,
+					"deep speech": true,
+					"draconic": true,
+					"infernal": true,
+					"primordial": true,
+					"sylvan": true,
+					"undercommon": true,
+					"dwarvish": true,
+					"elvish": true,
+					"giant": true,
+					"common": true,
+					"other": true
+				}
+			],
 			"entries": [
 				{
 					"type": "entries",
