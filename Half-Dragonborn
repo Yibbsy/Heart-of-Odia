@@ -78,7 +78,7 @@
 					"type": "entries",
 					"name": "Tireless",
 					"entries": [
-						"Half-dragonborn are excellent at ignoring exhaustion. You ignore the effect of the first three levels of exhaustion."
+						"Half-dragonborn are excellent at ignoring exhaustion.  At level 1 of exhaustion you suffer no effect. At level 2-5 you suffer the effect of one level of exhaustion lower than your current level. Level 6 is still death."
 					]
 				},
 				{
